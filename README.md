@@ -25,3 +25,4 @@ El objetivo es analizar un conjunto de datos de ventas para obtener indicadores 
 1. Colocar el archivo de ventas en la carpeta datos.
 2. Ejecutar el script ubicado en la carpeta scripts.
 3. Consultar los resultados generados en la carpeta resultados.
+TPV-10: Actualizar documentación final
